@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Spark / Hive generated files
+processed/
+hive_warehouse/
+.sparkStaging/
+.metastore/
+derby.log
+*.crc
+_SUCCESS
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
