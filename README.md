@@ -289,5 +289,3 @@ Spark processing
     ->
 External Parquet table
 ```
-
-Production orchestration, advanced monitoring, retry frameworks, distributed deployment, and other unnecessary infrastructure are outside the scope of this learning project.
