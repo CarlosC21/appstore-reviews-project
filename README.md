@@ -280,7 +280,7 @@ When opening a new PowerShell session, set them again before running Spark jobs.
 
 ## Scope
 
-The project intentionally focuses on the mentor's three core requirements:
+The project intentionally focuses on three core requirements:
 
 ```text
 API ingestion
