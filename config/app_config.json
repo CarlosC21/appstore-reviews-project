@@ -1,0 +1,20 @@
+{
+  "api": {
+    "base_url": "https://itunes.apple.com/lookup",
+    "timeout_seconds": 30,
+    "apps": [
+      {
+        "app_id": 310633997,
+        "country": "at"
+      },
+      {
+        "app_id": 421997825,
+        "country": "au"
+      }
+    ]
+  },
+  "logging": {
+    "level": "INFO",
+    "format": "%(asctime)s | %(levelname)s | %(name)s | %(message)s"
+  }
+}

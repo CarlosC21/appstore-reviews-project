@@ -1,0 +1,7 @@
+{
+  "storage": {
+    "backend": "local",
+    "raw_output_dir": "raw/api/app_metadata",
+    "processed_output_dir": "processed/app_metadata"
+  }
+}

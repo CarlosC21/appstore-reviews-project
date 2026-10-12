@@ -1,0 +1,7 @@
+{
+  "storage": {
+    "backend": "s3",
+    "raw_output_uri": "s3://REPLACE-WITH-UAT-BUCKET/raw/api/app_metadata",
+    "processed_output_uri": "s3://REPLACE-WITH-UAT-BUCKET/processed/app_metadata"
+  }
+}

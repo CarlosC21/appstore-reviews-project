@@ -2,6 +2,7 @@
   "resultCount": 1,
   "results": [
     {
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/d2/0b/36d20b2a-42f4-7c7f-3b86-a6142b6937ca/Tom2AppIconiPhone-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8b/9f/9e/8b9f9e72-8760-d16a-09e8-5ec2153350b3/56421b79-8715-42e6-b70a-1cbbaf8945d2_single-01-1242x2208-en.jpg/392x696bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b6/a9/d5/b6a9d589-b2c4-ae0d-3b82-32e56c8de781/c3eb9658-da69-44bd-a66d-093e2fa90f1a_single-02-1242x2208-en.jpg/392x696bb.jpg",
@@ -12,9 +13,7 @@
       ],
       "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/d2/0b/36d20b2a-42f4-7c7f-3b86-a6142b6937ca/Tom2AppIconiPhone-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
       "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -148,12 +147,14 @@
         "iPhone18ProMax-iPhone18ProMax",
         "iPhoneDuo-iPhoneDuo"
       ],
+      "advisories": [],
       "kind": "software",
       "artistViewUrl": "https://apps.apple.com/au/developer/outfit7-limited/id351110111?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/d2/0b/36d20b2a-42f4-7c7f-3b86-a6142b6937ca/Tom2AppIconiPhone-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/d2/0b/36d20b2a-42f4-7c7f-3b86-a6142b6937ca/Tom2AppIconiPhone-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
-      "averageUserRatingForCurrentVersion": 4.31719,
+      "userRatingCountForCurrentVersion": 6178,
       "sellerUrl": "https://talkingtomandfriends.com/apps",
+      "minimumOsVersion": "13.0",
       "languageCodesISO2A": [
         "AR",
         "EN",
@@ -171,37 +172,36 @@
       ],
       "fileSizeBytes": "246324224",
       "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 6176,
       "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.31693,
+      "releaseNotes": "Bug fixes and minor gameplay improvements.",
       "artistId": 351110111,
       "artistName": "Outfit7 Limited",
       "genres": [
         "Entertainment"
       ],
       "price": 0.0,
+      "bundleId": "com.outfit7.talkingtom2",
       "genreIds": [
         "6016"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Outfit7 Limited",
-      "releaseDate": "2011-05-27T23:03:54Z",
       "currentVersionReleaseDate": "2026-05-22T08:16:04Z",
-      "trackId": 421997825,
-      "trackName": "Talking Tom Cat 2",
-      "releaseNotes": "Bug fixes and minor gameplay improvements.",
+      "releaseDate": "2011-05-27T23:03:54Z",
+      "primaryGenreName": "Entertainment",
+      "primaryGenreId": 6016,
+      "sellerName": "Outfit7 Limited",
+      "isVppDeviceBasedLicensingEnabled": true,
       "version": "6.2.1",
       "wrapperType": "software",
       "currency": "AUD",
       "description": "The legend is back! Talking Tom Cat 2 is better, cooler, and funnier than ever before!\n\nWith over a billion downloads and counting, Talking Tom Cat 2 is popular all over the world. Don’t miss all the fun this cool game has to offer. Get your own cute and funny virtual pet now!\n\nTalk to Talking Tom, play with him, poke him, and dress him in cool outfits. Customize his home. And make funny videos and share them with your friends! Adopt him as your very own virtual pet and get instant fun in return!\n\nENJOY YOUR DAY WITH TOM\n- TALK TO TOM: Speak and he repeats what you say in a hilarious voice. It’s so funny!\n- PLAY WITH TOM: Stroke him, poke him, make him explode a paper bag, smash a pillow or even fart! The fun never ends with Tom.\n- CUSTOMIZE TOM: Dress Tom up with new accessories, clothes, and outfits! How about Cowboy Tom or Pirate Tom?\n- RECORD TOM: Record videos of what Tom does and send them to your friends.\n\nDownload the app now and join the fun!\n\nTo see what Tom’s up to, follow Talking Tom on Facebook: http://www.facebook.com/TalkingTom\n\nThis app is PRIVO certified. The PRIVO safe harbor seal indicates Outfit7 has established COPPA-compliant privacy practices to protect your child’s personal information. Our apps do not allow younger children to share their information.\n\nThis app contains:\n- Promotion of Outfit7's products and advertising;\n- Links that direct customers to Outfit7’s websites and other apps;\n- Personalization of content to encourage users to play the app again;\n- Videos of Outfit7's animated characters via YouTube integration; and\n- The option to make in-app purchases.\n\nPlease note, we do not process all the data disclosed on the label for users under the age of digital consent. For more information, please check our Privacy Policy.\n\nTerms of use: https://talkingtomandfriends.com/eula/en/\nPrivacy policy for games: https://talkingtomandfriends.com/privacy-policy-games/en\nCustomer support: support@outfit7.com",
-      "contentAdvisoryRating": "4+",
       "trackCensoredName": "Talking Tom Cat 2",
       "trackViewUrl": "https://apps.apple.com/au/app/talking-tom-cat-2/id421997825?uo=4",
-      "minimumOsVersion": "13.0",
-      "averageUserRating": 4.31719,
-      "bundleId": "com.outfit7.talkingtom2",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "userRatingCount": 6176
+      "averageUserRating": 4.31693,
+      "contentAdvisoryRating": "4+",
+      "trackId": 421997825,
+      "trackName": "Talking Tom Cat 2",
+      "userRatingCount": 6178
     }
   ]
 }
